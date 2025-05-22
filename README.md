@@ -1,8 +1,10 @@
+<div align="center">
+
 # 👋 Hi there, I'm Akmal Raditya Wijaya
 
 ![GitHub Header](img/github-header.png)
 
-🎓 **Student** | 💻 **Web Developer** | 🎨 **UI/UX Enthusiast**
+🎓 **Student** | 💻 **Full Stack Developer** | 🎨 **UI/UX Enthusiast**
 
 Passionate about creating beautiful and functional digital experiences. Always learning and exploring new technologies!
 
@@ -10,33 +12,51 @@ Passionate about creating beautiful and functional digital experiences. Always l
 
 ## 🛠️ Tech Stack
 
-### 💡 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🌐 Frontend
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div>
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
+
+</div>
+
+### 🖥️ Backend
+
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,php,python,express,mysql)](https://skillicons.dev)
+
+</div>
 
 ### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,blender,ae)](https://skillicons.dev)
+
+</div>
+
+### 🛠️ Other Tools
+
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,netlify,vercel)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## 📌 Currently Working On
+
 - 🔨 Building my personal portfolio website
 - 📚 School projects with web development focus
 - 🎨 UI/UX design experiments and case studies
 
 ## 🌱 Currently Learning
+
 - ⚛️ Advanced React patterns
 - 🖌️ UI/UX design principles
-- 🗄️ Backend development with Node.js
+- 🗄️ Backend architecture with Node.js and Laravel
 
 ---
 
@@ -49,14 +69,31 @@ Passionate about creating beautiful and functional digital experiences. Always l
 ---
 
 ## 📫 Let's Connect!
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akmalraditya@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yourprofile)
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+    <a href="mailto:akmal.raditya.wijaya@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Email me at akmal.raditya.wijaya@gmail.com" width="40" height="40">
+    </a>
+    <a href="https://www.instagram.com/4lyaya__" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Follow me on Instagram @4lyaya__" width="40" height="40">
+    </a>
+    <a href="https://github.com/4lyaya" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="Check my GitHub profile" width="40" height="40">
+    </a>
+    <a href="https://x.com/AkmalRadityaW" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" title="Follow me on Twitter/X" width="40" height="40">
+    </a>
+    <a href="https://discord.gg/wJeWADXK" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="Join my Discord server" width="40" height="40">
+    </a>
+  </div>
+</div>
 
 ---
 
 ## ⚡ Fun Facts
+
 - 🎨 I always start projects with hand-drawn sketches
 - ☕ Can't code without my favorite drink
 - 🎮 Love gaming UI/UX designs
@@ -65,3 +102,9 @@ Passionate about creating beautiful and functional digital experiences. Always l
 ![Visitor Count](https://komarev.com/ghpvc/?username=4lyaya&color=blueviolet&style=flat-square)
 
 **Let's collaborate and create something amazing!** ✨
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/4lyaya/4lyaya/output/snake.svg" alt="Snake animation" />
+
+</div>
